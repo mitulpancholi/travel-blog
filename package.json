@@ -10,11 +10,18 @@
   },
   "dependencies": {
     "@next/font": "13.1.1",
+    "@sanity/ui": "^1.0.12",
+    "@sanity/vision": "^3.0.0",
     "eslint": "8.31.0",
     "eslint-config-next": "13.1.1",
     "next": "13.1.1",
+    "next-sanity": "^4.0.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "sanity": "^3.0.0",
     "styled-components": "^5.3.6"
+  },
+  "devDependencies": {
+    "@sanity/eslint-config-studio": "^2.0.1"
   }
 }

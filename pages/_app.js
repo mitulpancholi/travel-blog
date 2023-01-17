@@ -6,7 +6,6 @@ const GlobalStyle = createGlobalStyle`
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  color : black;
   }
  html {
   line-height: 200%;
@@ -16,8 +15,7 @@ const GlobalStyle = createGlobalStyle`
   body {
     font-family: 'Poppins', sans-serif;
     /* background-color: #E5E5E5; */
-    background-color: #ffffff;
-    color : black;
+
     height: 100%;
     width: 100%;
     position: relative;

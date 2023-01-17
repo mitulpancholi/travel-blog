@@ -15,5 +15,4 @@ const Layout = ({ children }) => {
 export default Layout;
 
 const StyledMain = styled.main`
-padding: 60px 60px;
 `
